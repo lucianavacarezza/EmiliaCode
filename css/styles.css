@@ -1,0 +1,71 @@
+h3.home {
+    color: grey;
+    font-family: 'Open Sans', sans-serif;;
+    text-align: left, top;
+
+}
+
+h2.emiliacole { color: grey;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 60px;
+    margin: 0;
+    
+
+}
+
+body.home {
+    background-image: url(../emiliaColeMateriales/img/home.jpg) ;
+    background-size: 1150px, 1150px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+h1.titulo {
+    font-size: 100px;
+    background-color: rgba(255, 255,255, 0.155);
+}
+
+h2.about {
+    color: grey;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 60px;
+    margin: 0;
+}
+
+body.about {
+    background-image: url(../emiliaColeMateriales/img/about.jpg);
+    background-repeat: no-repeat;
+    background-size: 1150px, 1150px;
+    background-position: right;
+}
+
+p.frases {
+    font-family: 'Open Sans', sans-serif;;
+    color: lightseagreen;
+    font-size: xx-large;
+    background-color: rgba(255, 255,255, 0.155);
+}
+
+p.pie {
+    font-family: 'Open Sans', sans-serif;;
+    color: lightseagreen;
+    background-color: rgba(255, 255,255, 0.155);
+}
+
+h2.music { font-family: 'Work Sans', sans-serif;
+    font-size: 45px;}
+
+h3.album {font-family: 'Open Sans', sans-serif;;}
+
+p.textos {font-family: 'Open Sans', sans-serif;;
+font-size: 20px;}
+
+h3.canciones {font-family: 'Open Sans', sans-serif;;}
+
+h2.contact {   font-family: 'Work Sans', sans-serif;
+    font-size: 60px;}
+
+h3.we {font-family: 'Open Sans', sans-serif;;}
+
+p.titulo {font-family: 'Open Sans', sans-serif;;
+color: cadetblue;}
